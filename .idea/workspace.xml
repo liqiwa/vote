@@ -4,14 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="321931fa-632d-42f1-95bb-c8a5d0172d5c" name="Changes" comment="20240311 first commit">
+    <list default="true" id="321931fa-632d-42f1-95bb-c8a5d0172d5c" name="Changes" comment="20240406 add java commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/controller/VoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/dto/VoteResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/dto/VoteSubmission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/model/Issue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/model/Option.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/model/VoteOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/service/VoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/result.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/vote/VoteApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/vote/Hobby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/model/Hobby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/vote/HobbyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/controller/HobbyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/vote/HobbyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/repository/HobbyRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/vote/HobbyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/service/HobbyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vote/Hobby.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vote/HobbyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vote/HobbyRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vote/HobbyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vote/VoteApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.vote.VoteApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.vote.VoteApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.vote.VoteApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.example.vote.VoteApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/vote-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/vote-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.vote.VoteApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.vote.VoteApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/vote/VoteApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/vote-0.0.1-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +54,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -50,7 +83,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2d2lWmc6o8e50dAvI6vWUf4Yuvv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -75,8 +110,8 @@
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.18390805&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.intentionPowerPack&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;10f4f58773ffdcb3f03e1b5c0e43e434&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;4ca5d171acaac2c5ca261c97b0d40383&quot;
   }
 }</component>
   <component name="RunDashboard">
@@ -128,6 +163,13 @@
       <workItem from="1709445861648" duration="10236000" />
       <workItem from="1709972080956" duration="622000" />
       <workItem from="1710171522282" duration="1655000" />
+      <workItem from="1712072425782" duration="2384000" />
+      <workItem from="1712220975595" duration="1684000" />
+      <workItem from="1712222872732" duration="2577000" />
+      <workItem from="1712229058366" duration="1170000" />
+      <workItem from="1712241633407" duration="2001000" />
+      <workItem from="1712399112902" duration="1410000" />
+      <workItem from="1712407445043" duration="2950000" />
     </task>
     <task id="LOCAL-00001" summary="20240311 first commit">
       <created>1710172038828</created>
@@ -143,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710173008447</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20240402 add java commit">
+      <created>1711989051123</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711989051123</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,7 +236,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20240311 first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="20240311 first commit" />
+    <MESSAGE value="20240402 add java commit" />
+    <MESSAGE value="20240406 add java commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240406 add java commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

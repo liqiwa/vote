@@ -1,5 +1,7 @@
-package com.example.vote;
+package com.example.vote.service;
 
+import com.example.vote.model.Hobby;
+import com.example.vote.repository.HobbyRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

@@ -1,5 +1,7 @@
-package com.example.vote;
+package com.example.vote.controller;
 
+import com.example.vote.model.Hobby;
+import com.example.vote.service.HobbyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

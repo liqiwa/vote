@@ -1,4 +1,4 @@
-package com.example.vote;
+package com.example.vote.model;
 
 import javax.persistence.*;
 

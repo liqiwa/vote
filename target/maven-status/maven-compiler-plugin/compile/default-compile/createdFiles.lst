@@ -1,5 +1,13 @@
-com\example\vote\HobbyService.class
+com\example\vote\repository\HobbyRepository.class
+com\example\vote\model\Option.class
+com\example\vote\dto\VoteResult.class
+com\example\vote\controller\HobbyController.class
+com\example\vote\model\Issue.class
+com\example\vote\service\HobbyService.class
+com\example\vote\model\Hobby.class
 com\example\vote\VoteApplication.class
-com\example\vote\Hobby.class
-com\example\vote\HobbyController.class
-com\example\vote\HobbyRepository.class
+com\example\vote\controller\VoteController.class
+com\example\vote\service\VoteService.class
+com\example\vote\dto\VoteSubmission.class
+com\example\vote\model\VoteOption.class
+com\example\vote\config\SecurityConfig.class
