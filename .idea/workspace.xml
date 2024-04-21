@@ -5,46 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="321931fa-632d-42f1-95bb-c8a5d0172d5c" name="Changes" comment="20240406 add java commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/controller/VoteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/dto/VoteResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/dto/VoteSubmission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/model/Issue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/model/Option.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/model/VoteOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/service/VoteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/result.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/vote/VoteApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/vote/Hobby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/model/Hobby.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/vote/HobbyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/controller/HobbyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/vote/HobbyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/repository/HobbyRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/vote/HobbyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/service/HobbyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vote/Hobby.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vote/HobbyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vote/HobbyRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vote/HobbyService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/vote/VoteApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.vote.VoteApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.vote.VoteApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/vote/VoteApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/vote-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/vote/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/vote/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.vote.VoteApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.vote.VoteApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.vote.VoteApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.example.vote.VoteApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/vote-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/vote-0.0.1-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +47,7 @@
     <option name="delegateBuildToMaven" value="true" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2d2lWmc6o8e50dAvI6vWUf4Yuvv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -121,7 +88,15 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in vsvote">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="All in vote" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vote" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All in vsvote" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="vsvote" />
       <option name="PACKAGE_NAME" value="" />
@@ -130,19 +105,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/vsvote/vote/static/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="VoteApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="vsvote" />
+      <option name="ACTIVE_PROFILES" />
+      <module name="vote" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.vote.VoteApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JUnit.All in vote" />
       <item itemvalue="JUnit.All in vsvote" />
       <item itemvalue="Spring Boot.VoteApplication (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JUnit.All in vote" />
         <item itemvalue="JUnit.All in vsvote" />
       </list>
     </recent_temporary>
@@ -169,7 +152,11 @@
       <workItem from="1712229058366" duration="1170000" />
       <workItem from="1712241633407" duration="2001000" />
       <workItem from="1712399112902" duration="1410000" />
-      <workItem from="1712407445043" duration="2950000" />
+      <workItem from="1712407445043" duration="3088000" />
+      <workItem from="1713540345249" duration="1074000" />
+      <workItem from="1713573437763" duration="599000" />
+      <workItem from="1713599795290" duration="896000" />
+      <workItem from="1713661553004" duration="9563000" />
     </task>
     <task id="LOCAL-00001" summary="20240311 first commit">
       <created>1710172038828</created>
@@ -192,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711989051123</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20240406 add java commit">
+      <created>1712419246140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712419246140</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
